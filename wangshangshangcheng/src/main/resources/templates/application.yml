@@ -1,3 +1,8 @@
+#thymeleaf视图解析器
+thymeleaf: 
+  prefix: /
+  fussix: .html
+
 spring:
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
